@@ -1,3 +1,5 @@
+#https://neetcode.io/problems/duplicate-integer/question?utm_source=chatgpt.com
+
 from typing import List
 
 class Solution:
